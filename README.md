@@ -1,5 +1,5 @@
 # Coffee_Machine
-Coffee_Machine
+Coffee_Machine Stage 4/6
 
 Description
 Let's simulate an actual coffee machine! What do we need for that? This coffee machine will have a limited supply of water, milk, coffee beans, and disposable cups. Also, it will calculate how much money it gets for selling coffee.
